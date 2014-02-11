@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Jamie Davies</title>
+    <description>Jamie Davies</description>
+    <link/>
+    <pubDate>2014-02-11</pubDate>
+    <item>
+      <title>Index</title>
+      <link>/</link>
+      <description>&lt;h1&gt;Jamie Davies&lt;/h1&gt;
+
+&lt;ul id="social"&gt;
+        &lt;li&gt;
+            &lt;a href="mailto:jamie@jamiedavies.me" title="Email"&gt;
+                &lt;i class="fa fa-envelope" style="margin-top: -1px"&gt;&lt;/i&gt;
+                mailto:jamie@jamiedavies.me
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href="http://github.com/daviesjamie" title="Github"&gt;
+                &lt;i class="fa fa-github-alt"&gt;&lt;/i&gt;
+                http://github.com/daviesjamie
+            &lt;/a&gt;
+        &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+  </channel>
+</rss>
