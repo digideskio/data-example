@@ -1,0 +1,20 @@
+{
+    "title": "Jamie Davies",
+
+    "social": [
+        {
+            "id": "email",
+            "title": "Email",
+            "url": "mailto:jamie@jamiedavies.me",
+            "icon": "fa-envelope",
+            "margin-fix": true
+        },
+        {
+            "id": "github",
+            "title": "Github",
+            "url": "http://github.com/daviesjamie",
+            "icon": "fa-github-alt",
+            "margin-fix": false
+        }
+    ]
+}

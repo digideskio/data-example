@@ -1,0 +1,12 @@
+<h1>{{ data.title }}</h1>
+
+<ul id="social">
+    {{# data.social }}
+        <li>
+            <a href="{{ url }}" title="{{ title }}">
+                <i class="fa {{ icon }}"{{# margin-fix? }} style="margin-top: -1px"{{/ margin-fix? }}></i>
+                {{ url }}
+            </a>
+        </li>
+    {{/ data.social }}
+</ul>
